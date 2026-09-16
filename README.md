@@ -10,3 +10,4 @@ The store doesn't have a clear idea about:
 4. Where things are going wrong in delivery or operations.
 # Solutions:
 They need proper reports and simple insights to understand their sales, customets, and product performance better.
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/197418fb-b592-439f-bc64-bd9d2bf732a2" />
